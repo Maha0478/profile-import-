@@ -1,0 +1,8 @@
+{
+  "action": "profile-import",
+  "profile": {
+    "name": "kiosk",
+    "allow": ["canvas.read"],
+    "deny": ["palette.write"]
+  }
+}
